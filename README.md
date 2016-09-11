@@ -2,4 +2,4 @@
 My first repository on GitHub.
 
 
-Building first webiste using angular
+Building first webiste using angular.
